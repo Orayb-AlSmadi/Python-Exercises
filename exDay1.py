@@ -59,7 +59,7 @@ X_q='orange'
 print(X_q)
 AB= 14
 print(AB)
-print(10*10)
+print("10"*10)
 
 
 print ("Ex9:")
@@ -67,7 +67,6 @@ print("Orange")
 print(1)
 print(100)
 print(-10)
-
 
 
 print ("Ex10:")
